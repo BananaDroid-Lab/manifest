@@ -1192,4 +1192,5 @@
   <include name="remove.xml" />
   <include name="banana.xml" />
   <include name="others.xml" />
+  <include name="pixel.xml" />
 </manifest>
